@@ -1,2 +1,2 @@
-# Capstone_Graphs
+# Capstone Graphs
 Documenting the code used to analyze and graph the data from my college capstone project, an aeroponic system. For those not familiar with aeroponic systems, they are a kind of hydroponic system, which is a system designed to grow plants of many types with nutrient solution, not soil, providing the nutrients to the pllants. I have been monitoring changes in condtions to the aeroponic system I built, inputting the changes and resulting growth of the Waltham 29 broccoli microgreens in Excel spreadsheets. 
